@@ -1,0 +1,11 @@
+body{
+    #gw-splash{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        #gw-splash-logo{
+            width: 30vw;
+        }
+    }
+}
