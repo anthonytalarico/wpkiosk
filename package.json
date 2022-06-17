@@ -42,7 +42,7 @@
         "concurrently": "^4.1.0",
         "css-loader": "^3.0.0",
         "dragula": "^3.7.2",
-        "electron": "^5.0.4",
+        "electron": "^15.5.5",
         "electron-packager": "^13.1.1",
         "extract-text-webpack-plugin": "^4.0.0-beta.0",
         "friendly-errors-webpack-plugin": "^1.7.0",
